@@ -1,0 +1,1670 @@
+{
+  "note": "Seat totals follow Election Commission of India statistical reports and standard secondary tallies (IndiaVotes / ECI Form-20 aggregates). 1980 had a Lok Sabha poll but no Assembly poll. From 2 June 2014 Andhra Pradesh has 175 Assembly and 25 Lok Sabha seats.",
+  "assembly": [
+    {
+      "year": 1983,
+      "scope": "united",
+      "title": "TDP is born and ends Congress rule",
+      "date": "5 January 1983",
+      "seats": 294,
+      "majority": 148,
+      "turnout": 67.7,
+      "cm": "N. T. Rama Rao",
+      "cmParty": "TDP",
+      "opposition": "Mogaligundla Baga Reddy (Congress)",
+      "coalition": "TDP majority government. No coalition needed.",
+      "parties": [
+        {
+          "code": "TDP",
+          "seats": 202,
+          "share": 46.3
+        },
+        {
+          "code": "INC",
+          "seats": 60,
+          "share": 33.6
+        },
+        {
+          "code": "CPI(M)",
+          "seats": 5
+        },
+        {
+          "code": "CPI",
+          "seats": 4
+        },
+        {
+          "code": "BJP",
+          "seats": 3
+        }
+      ],
+      "leaders": [
+        {
+          "name": "N. T. Rama Rao",
+          "party": "TDP",
+          "role": "TDP founder, CM face"
+        },
+        {
+          "name": "Kotla Vijaya Bhaskara Reddy",
+          "party": "INC",
+          "role": "Sitting Congress CM"
+        }
+      ],
+      "hype": "NTR launched the Telugu Desam Party only in March 1982. In nine months he toured the state on the Chaitanya Ratham promising Telugu ātma gauravam (self-respect). The spark was the public humiliation of Congress CM T. Anjaiah by Rajiv Gandhi at Begumpet airport in 1982 — it became the story that Congress treated Andhra as a remote-controlled state. Film-star crowds, yellow flags and a simple rice-and-respect pitch made this the most charged campaign the state had seen since 1956.",
+      "whyWon": [
+        "NTR converted cinema popularity into a Telugu-pride party against Delhi’s high command culture.",
+        "Congress was exhausted after the 1978–82 musical chairs of CMs (Chenna Reddy, Anjaiah, Bhavanam, Kotla).",
+        "A clear welfare pitch — cheaper rice — beat a tired incumbent machine."
+      ],
+      "whyLost": [
+        "Congress had no local mascot who could match NTR’s crowd pull.",
+        "Voters punished frequent CM changes and the Anjaiah airport insult.",
+        "The party looked like New Delhi’s branch office, not an Andhra government."
+      ],
+      "aftermath": "NTR took oath on 9 January 1983 — the first non-Congress CM of Andhra Pradesh. In August 1984 Nadendla Bhaskara Rao split TDP with Indira Gandhi’s blessing and sat as CM for 31 days. A huge public agitation restored NTR. He then dissolved the House and went back to voters in 1985. The 1983 verdict created a durable two-bloc system: TDP versus Congress.",
+      "changes": [
+        "End of uninterrupted Congress rule since the state’s formation.",
+        "TDP became the main Telugu regional party.",
+        "Set the template for film-star-led regional parties in India."
+      ],
+      "hook": "The nine-month party that ended 27 years of Congress.",
+      "era": "NTR wave"
+    },
+    {
+      "year": 1985,
+      "scope": "united",
+      "title": "NTR asks for a fresh mandate after the coup",
+      "date": "5 March 1985",
+      "seats": 294,
+      "majority": 148,
+      "turnout": 67.6,
+      "cm": "N. T. Rama Rao",
+      "cmParty": "TDP",
+      "opposition": "Mogaligundla Baga Reddy (Congress)",
+      "coalition": "TDP majority. Informal understanding with the Left on some seats.",
+      "parties": [
+        {
+          "code": "TDP",
+          "seats": 202,
+          "share": 46.2
+        },
+        {
+          "code": "INC",
+          "seats": 50,
+          "share": 37.5
+        },
+        {
+          "code": "CPI",
+          "seats": 11
+        },
+        {
+          "code": "CPI(M)",
+          "seats": 11
+        },
+        {
+          "code": "BJP",
+          "seats": 8
+        },
+        {
+          "code": "JP",
+          "seats": 3
+        }
+      ],
+      "leaders": [
+        {
+          "name": "N. T. Rama Rao",
+          "party": "TDP",
+          "role": "CM, seeking endorsement after 1984 dismissal"
+        },
+        {
+          "name": "Nadendla Bhaskara Rao",
+          "party": "INC",
+          "role": "The 31-day rebel CM; later with Congress"
+        }
+      ],
+      "hype": "This was a referendum on the August 1984 coup. After Governor Ram Lal swore in Nadendla, NTR sat on dharna in Delhi and Hyderabad. When restored, he dissolved the Assembly so voters — not MLAs — would decide. Campaign posters treated the poll as Telugu honour versus Delhi intrigue. Turnout stayed high; the atmosphere was still the 1983 wave, now mixed with anger.",
+      "whyWon": [
+        "Voters treated the 1984 dismissal as an insult and rewarded NTR.",
+        "TDP organisation had matured after two years in office.",
+        "Congress was stuck defending the Nadendla experiment."
+      ],
+      "whyLost": [
+        "Congress owned the coup in the public mind.",
+        "No new local face to replace the damaged high-command image.",
+        "The Left and BJP took some anti-Congress space but not the CM race."
+      ],
+      "aftermath": "NTR returned with another 202 seats. The second term mixed populism (Rs 2 kg rice) with family friction that later exploded in 1995. Nationally, TDP had already become the largest Opposition party in the 1984 Lok Sabha.",
+      "changes": [
+        "Confirmed that Andhra would not accept a Delhi-made CM.",
+        "Stabilised TDP as a governing party, not a one-election wonder.",
+        "Left and BJP gained a few seats but remained junior players."
+      ],
+      "hook": "Voters punished Delhi for toppling NTR.",
+      "era": "NTR again"
+    },
+    {
+      "year": 1989,
+      "scope": "united",
+      "title": "Congress comes back; NTR goes to opposition",
+      "date": "22 November 1989",
+      "seats": 294,
+      "majority": 148,
+      "turnout": 70.4,
+      "cm": "Marri Chenna Reddy",
+      "cmParty": "INC",
+      "opposition": "N. T. Rama Rao (TDP)",
+      "coalition": "Congress majority. Chenna Reddy was later replaced by N. Janardhana Reddy, then Kotla Vijaya Bhaskara Reddy.",
+      "parties": [
+        {
+          "code": "INC",
+          "seats": 181,
+          "share": 47.1
+        },
+        {
+          "code": "TDP",
+          "seats": 74,
+          "share": 36.6
+        },
+        {
+          "code": "CPI",
+          "seats": 8
+        },
+        {
+          "code": "CPI(M)",
+          "seats": 6
+        },
+        {
+          "code": "BJP",
+          "seats": 5
+        }
+      ],
+      "leaders": [
+        {
+          "name": "Marri Chenna Reddy",
+          "party": "INC",
+          "role": "Congress CM face"
+        },
+        {
+          "name": "N. T. Rama Rao",
+          "party": "TDP",
+          "role": "Incumbent CM, lost"
+        }
+      ],
+      "hype": "Anti-incumbency after six TDP years. Power cuts, the style of NTR’s court, and a Congress that had regrouped under Rajiv Gandhi’s 1989 national campaign. In AP the fight was still NTR versus the Congress old guard, but the magic of 1983 had thinned. Simultaneously India voted in a Lok Sabha that ended Rajiv’s majority — AP, unusually, swung the other way toward Congress.",
+      "whyWon": [
+        "Six years of TDP rule produced everyday grievances: power, prices, administration.",
+        "Congress rebuilt its Reddy–backward-class district network.",
+        "Voters split: they punished Rajiv nationally but still wanted a change in Hyderabad."
+      ],
+      "whyLost": [
+        "NTR’s larger-than-life style began to look like one-man rule.",
+        "TDP had no second-rung face as popular as NTR himself.",
+        "Anti-incumbency after a full term is normal in AP — 1989 was that cycle."
+      ],
+      "aftermath": "Chenna Reddy became CM, then Janardhana Reddy (1990), then Kotla (1992). Three Congress CMs in one House repeated the old instability. That revolving door helped TDP’s 1994 comeback. NTR sat as Leader of Opposition.",
+      "changes": [
+        "Proved AP would alternate, not become a TDP one-party state.",
+        "Congress returned but could not produce a stable CM.",
+        "Set up NTR’s 1994 populist reset (Rs 2 kg rice)."
+      ],
+      "hook": "Andhra swung to Congress while India threw Rajiv out.",
+      "era": "Congress back"
+    },
+    {
+      "year": 1994,
+      "scope": "united",
+      "title": "NTR’s last landslide — then the 1995 coup",
+      "date": "1 December 1994",
+      "seats": 294,
+      "majority": 148,
+      "turnout": 71.0,
+      "cm": "N. T. Rama Rao, then N. Chandrababu Naidu (1995)",
+      "cmParty": "TDP",
+      "opposition": "P. Janardhan Reddy (Congress)",
+      "coalition": "TDP majority, with Left (CPI 19, CPM 15) as electoral partners against Congress.",
+      "parties": [
+        {
+          "code": "TDP",
+          "seats": 216,
+          "share": 44.1
+        },
+        {
+          "code": "INC",
+          "seats": 26,
+          "share": 33.9
+        },
+        {
+          "code": "CPI",
+          "seats": 19
+        },
+        {
+          "code": "CPI(M)",
+          "seats": 15
+        },
+        {
+          "code": "BJP",
+          "seats": 3
+        }
+      ],
+      "leaders": [
+        {
+          "name": "N. T. Rama Rao",
+          "party": "TDP",
+          "role": "CM face; last election he led and won"
+        },
+        {
+          "name": "Kotla Vijaya Bhaskara Reddy",
+          "party": "INC",
+          "role": "Sitting Congress CM"
+        }
+      ],
+      "hype": "NTR’s pitch was blunt: Rs 2 a kg rice, prohibition, and a Congress government seen as corrupt and power-starved. He allied with CPI and CPM. The campaign felt like 1983 again — yellow waves in coastal Andhra and Rayalaseema. It was also the last time NTR was the uncontested TDP sun; Lakshmi Parvathi’s political rise after their 1993 marriage was already whispered.",
+      "whyWon": [
+        "A simple kitchen-table offer (cheap rice, prohibition) after Congress fatigue.",
+        "Left alliance added cadre in agency and working-class seats.",
+        "Three Congress CMs in five years looked like chaos."
+      ],
+      "whyLost": [
+        "Congress had no answer to the rice scheme.",
+        "Anti-incumbency after the 1989–94 term was severe.",
+        "The high command still picked CMs; TDP had a single recognisable face."
+      ],
+      "aftermath": "NTR became CM a third time. On 1 September 1995 Chandrababu Naidu, with a majority of TDP MLAs, replaced him in a legislative-party coup. NTR died in January 1996. Lakshmi Parvathi’s NTR-TDP splinter faded. Naidu dropped hard prohibition, kept welfare in a thinner form, and rebranded TDP as a reforms-and-IT party.",
+      "changes": [
+        "Largest TDP Assembly win (216).",
+        "Ended NTR’s leadership inside TDP; Naidu era began.",
+        "Left hit its modern peak in the AP House (34 seats together)."
+      ],
+      "hook": "Rs 2 rice, then a family coup that made Naidu CM.",
+      "era": "Last NTR win"
+    },
+    {
+      "year": 1999,
+      "scope": "united",
+      "title": "Naidu plus BJP: the CEO-CM election",
+      "date": "11 and 18 September 1999",
+      "seats": 294,
+      "majority": 148,
+      "turnout": 69.1,
+      "cm": "N. Chandrababu Naidu",
+      "cmParty": "TDP",
+      "opposition": "Y. S. Rajasekhara Reddy (Congress)",
+      "coalition": "TDP–BJP alliance (NDA). TDP 180 + BJP 12. Naidu ran a TDP government with BJP support.",
+      "parties": [
+        {
+          "code": "TDP",
+          "seats": 180,
+          "share": 43.9
+        },
+        {
+          "code": "INC",
+          "seats": 91,
+          "share": 40.6
+        },
+        {
+          "code": "BJP",
+          "seats": 12
+        },
+        {
+          "code": "CPI(M)",
+          "seats": 2
+        }
+      ],
+      "leaders": [
+        {
+          "name": "N. Chandrababu Naidu",
+          "party": "TDP",
+          "role": "Incumbent CM, NDA partner"
+        },
+        {
+          "name": "Y. S. Rajasekhara Reddy",
+          "party": "INC",
+          "role": "Congress campaign chief; became LoP"
+        }
+      ],
+      "hype": "Held with the 1999 Lok Sabha after Kargil. Naidu sold Hyderabad as Cyberabad, Vision 2020, and a laptop-CM against ‘old’ Congress. He had backed Vajpayee’s NDA (outside support in 1998, full alliance in 1999). YSR, still not CM, was already the Congress organiser who would later beat him. The hype was development versus welfare — a fight that still defines AP.",
+      "whyWon": [
+        "NDA tailwind after Kargil and Vajpayee’s campaign.",
+        "Naidu owned the ‘modern Hyderabad / IT’ story.",
+        "TDP–BJP seat-sharing cut the anti-TDP vote in many constituencies."
+      ],
+      "whyLost": [
+        "Congress vote share was still about 41% — the loss was more alliance arithmetic than collapse.",
+        "YSR had not yet done the 2003 padayatra that rebuilt rural Congress.",
+        "No matching ‘future’ narrative against Cyberabad."
+      ],
+      "aftermath": "Naidu’s second full term. He became the face of state-level liberalisation. Farm distress, power tariff politics and the 2002–04 drought piled up. YSR used those years to walk the state. TDP’s 29 Lok Sabha MPs also made Naidu a national veto player in the 13th Lok Sabha.",
+      "changes": [
+        "YSR became the standing Congress alternative.",
+        "BJP entered the AP House in size (12 seats) as TDP’s partner.",
+        "Development-versus-welfare became the main cleavage."
+      ],
+      "hook": "Cyberabad plus Kargil: the CEO-CM election.",
+      "era": "Naidu + BJP"
+    },
+    {
+      "year": 2004,
+      "scope": "united",
+      "title": "YSR’s padayatra beats the CEO-CM",
+      "date": "20 April and 26 April 2004",
+      "seats": 294,
+      "majority": 148,
+      "turnout": 69.9,
+      "cm": "Y. S. Rajasekhara Reddy",
+      "cmParty": "INC",
+      "opposition": "N. Chandrababu Naidu (TDP)",
+      "coalition": "Congress + TRS + Left (CPI, CPM) electoral alliance. Congress formed the government; TRS sat outside after Telangana talks stalled.",
+      "parties": [
+        {
+          "code": "INC",
+          "seats": 185,
+          "share": 38.6
+        },
+        {
+          "code": "TDP",
+          "seats": 47,
+          "share": 37.6
+        },
+        {
+          "code": "TRS",
+          "seats": 26,
+          "share": 6.8
+        },
+        {
+          "code": "CPI(M)",
+          "seats": 9
+        },
+        {
+          "code": "CPI",
+          "seats": 6
+        },
+        {
+          "code": "AIMIM",
+          "seats": 4
+        },
+        {
+          "code": "BJP",
+          "seats": 2
+        }
+      ],
+      "leaders": [
+        {
+          "name": "Y. S. Rajasekhara Reddy",
+          "party": "INC",
+          "role": "Congress CM face"
+        },
+        {
+          "name": "N. Chandrababu Naidu",
+          "party": "TDP",
+          "role": "Incumbent CM"
+        },
+        {
+          "name": "K. Chandrashekar Rao",
+          "party": "TRS",
+          "role": "Telangana ally"
+        }
+      ],
+      "hype": "YSR walked about 1,500 km in 2003. The story was farmer suicides, drought, and a CM who ‘only spoke to investors’. Free power to agriculture, Jalayagnam irrigation, and a Telangana promise via TRS. Nationally this was the India Shining election — AP voted against shining. TDP–BJP still fought together and still lost.",
+      "whyWon": [
+        "The padayatra made YSR a rural face TDP could not dismiss as a Delhi man.",
+        "Free power and irrigation were easier to feel than Vision 2020.",
+        "Congress–TRS–Left sharing stopped three-way splits in Telangana and left pockets."
+      ],
+      "whyLost": [
+        "Naidu was blamed for farm distress even though his statewide vote share barely fell.",
+        "The NDA brand was weak after India Shining.",
+        "TDP looked urban and Hyderabad-centric."
+      ],
+      "aftermath": "YSR became CM on 14 May 2004. Aarogyasri, housing, fee reimbursement and Jalayagnam defined the term. TRS quit the UPA in 2006 when Telangana was not delivered. The 2004 math — Congress slightly ahead on votes, far ahead on seats — showed how alliances manufacture landslides.",
+      "changes": [
+        "Welfare populism returned as the winning AP formula.",
+        "TRS became a real Assembly party (26 seats).",
+        "Naidu’s first major defeat; he stayed as LoP."
+      ],
+      "hook": "A 1,500 km walk beat India Shining.",
+      "era": "YSR padayatra"
+    },
+    {
+      "year": 2009,
+      "scope": "united",
+      "title": "YSR holds off TDP and Chiranjeevi",
+      "date": "16 April and 23 April 2009",
+      "seats": 294,
+      "majority": 148,
+      "turnout": 72.7,
+      "cm": "Y. S. Rajasekhara Reddy",
+      "cmParty": "INC",
+      "opposition": "N. Chandrababu Naidu (TDP)",
+      "coalition": "Congress majority of its own (156). Fought UPA nationally. TDP was in a ‘maha kutami’ with TRS and Left; PRP fought alone.",
+      "parties": [
+        {
+          "code": "INC",
+          "seats": 156,
+          "share": 36.5
+        },
+        {
+          "code": "TDP",
+          "seats": 92,
+          "share": 28.1
+        },
+        {
+          "code": "PRP",
+          "seats": 18,
+          "share": 16.3
+        },
+        {
+          "code": "TRS",
+          "seats": 10
+        },
+        {
+          "code": "AIMIM",
+          "seats": 7
+        }
+      ],
+      "leaders": [
+        {
+          "name": "Y. S. Rajasekhara Reddy",
+          "party": "INC",
+          "role": "Incumbent CM"
+        },
+        {
+          "name": "N. Chandrababu Naidu",
+          "party": "TDP",
+          "role": "Opposition CM face"
+        },
+        {
+          "name": "Chiranjeevi",
+          "party": "PRP",
+          "role": "New third force"
+        }
+      ],
+      "hype": "A three-cornered fight. Chiranjeevi’s Praja Rajyam, launched in 2008, was billed as the next NTR. TDP joined TRS and the Left to pull Telangana and Left votes. YSR ran on completed schemes — Aarogyasri, housing, Jalayagnam. The hype around PRP was huge in coastal Andhra; the conversion into seats was not.",
+      "whyWon": [
+        "Incumbent welfare had reach in every mandal.",
+        "PRP split the anti-Congress vote, especially Kapu votes TDP needed.",
+        "YSR was still personally more popular than the Congress party."
+      ],
+      "whyLost": [
+        "TDP’s maha kutami did not add up — TRS was weaker than in 2004.",
+        "PRP took 16% votes and only 18 seats: classic vote–seat mismatch.",
+        "Naidu still carried the 2004 ‘anti-farmer’ tag in villages."
+      ],
+      "aftermath": "YSR died in a helicopter crash on 2 September 2009. Rosaiah, then Kiran Kumar Reddy, became CM. Jagan Mohan Reddy rebelled, was denied the CM chair, quit Congress and floated YSRCP in 2011. PRP later merged into Congress (2011). Telangana agitation peaked (Srikrishna Committee, 2010). This House ended with bifurcation in 2014.",
+      "changes": [
+        "Last Congress government of united Andhra Pradesh.",
+        "Created the vacuum that became YSRCP.",
+        "PRP showed star power without a cadre does not win a House."
+      ],
+      "hook": "YSR held a three-cornered field. Months later he was gone.",
+      "era": "Last Congress AP"
+    },
+    {
+      "year": 2014,
+      "scope": "andhra",
+      "title": "First Assembly of residual Andhra Pradesh",
+      "date": "7 May 2014 (results with counting on 16 May)",
+      "seats": 175,
+      "majority": 88,
+      "turnout": 78.8,
+      "cm": "N. Chandrababu Naidu",
+      "cmParty": "TDP",
+      "opposition": "Y. S. Jagan Mohan Reddy (YSRCP)",
+      "coalition": "TDP–BJP alliance. TDP 102 + BJP 4. Naidu formed a TDP government with BJP as partner. JSP had not yet become a seat-winning force.",
+      "parties": [
+        {
+          "code": "TDP",
+          "seats": 102,
+          "share": 44.9
+        },
+        {
+          "code": "YSRCP",
+          "seats": 67,
+          "share": 44.2
+        },
+        {
+          "code": "BJP",
+          "seats": 4,
+          "share": 2.2
+        },
+        {
+          "code": "NPT",
+          "seats": 1
+        },
+        {
+          "code": "IND",
+          "seats": 1
+        }
+      ],
+      "leaders": [
+        {
+          "name": "N. Chandrababu Naidu",
+          "party": "TDP",
+          "role": "TDP–BJP CM face"
+        },
+        {
+          "name": "Y. S. Jagan Mohan Reddy",
+          "party": "YSRCP",
+          "role": "Main opponent"
+        }
+      ],
+      "hype": "The Andhra Pradesh Reorganisation Act had already been passed. Polling happened in a state that would formally split on 2 June 2014. Residual AP (Seemandhra) was furious about losing Hyderabad and about the Centre’s handling of the Bill. TDP, which had opposed the Bill’s final shape, allied with BJP. Jagan’s YSRCP — born from the 2010–11 Congress split — claimed YSR’s welfare mantle. Vote share was almost a tie (TDP 44.9, YSRCP 44.2); seats were not.",
+      "whyWon": [
+        "TDP–BJP alliance and the ‘we will get a special package / new capital’ pitch.",
+        "Anger at Congress for bifurcation without a ready Seemandhra plan.",
+        "Better conversion of a razor-thin vote lead into 102 seats."
+      ],
+      "whyLost": [
+        "YSRCP almost matched TDP on votes but lost the alliance arithmetic.",
+        "Congress was wiped out (0 seats) and could not transfer an anti-TDP vote.",
+        "Jagan was still rebuilding after the 2012–13 custody period."
+      ],
+      "aftermath": "Naidu became the first CM of residual AP. Amaravati was chosen as the new capital. Special-category status became the wound that never closed. YSRCP sat as a large Opposition (67). The 2014 map on this site is the 175-seat residual state — click any constituency.",
+      "changes": [
+        "AP Assembly shrank from 294 to 175; Telangana took 119.",
+        "Congress collapsed to zero in residual AP.",
+        "Capital, special status and Polavaram became the new politics."
+      ],
+      "hasMap": true,
+      "hook": "The first House of a state that had just been cut in half.",
+      "era": "Residual AP"
+    },
+    {
+      "year": 2019,
+      "scope": "andhra",
+      "title": "YSRCP landslide on Navaratnalu",
+      "date": "11 April 2019",
+      "seats": 175,
+      "majority": 88,
+      "turnout": 80.4,
+      "cm": "Y. S. Jagan Mohan Reddy",
+      "cmParty": "YSRCP",
+      "opposition": "N. Chandrababu Naidu (TDP)",
+      "coalition": "YSRCP majority government. No coalition. JSP fought alone and won one seat (Razole).",
+      "parties": [
+        {
+          "code": "YSRCP",
+          "seats": 151,
+          "share": 49.95
+        },
+        {
+          "code": "TDP",
+          "seats": 23,
+          "share": 39.17
+        },
+        {
+          "code": "JSP",
+          "seats": 1,
+          "share": 5.53
+        }
+      ],
+      "leaders": [
+        {
+          "name": "Y. S. Jagan Mohan Reddy",
+          "party": "YSRCP",
+          "role": "CM face; padayatra"
+        },
+        {
+          "name": "N. Chandrababu Naidu",
+          "party": "TDP",
+          "role": "Incumbent CM"
+        },
+        {
+          "name": "Pawan Kalyan",
+          "party": "JSP",
+          "role": "Third force; lost Pithapuram"
+        }
+      ],
+      "hype": "Jagan’s 2017–18 Praja Sankalpa Padayatra (about 3,648 km) was the campaign before the campaign. He offered nine guarantees — Navaratnalu — pensions, YSR Rythu Bharosa, Amma Vodi, Jalajeevan. TDP talked Amaravati and development but carried sand, liquor and ‘family’ charges. TDP had walked out of NDA in 2018 over special category status. Pawan Kalyan was the wild card; he ended with 5.5% votes and one MLA.",
+      "whyWon": [
+        "Padayatra plus a written welfare menu reached every village.",
+        "Special-category-status anger stuck to TDP after it had been in office and in NDA.",
+        "JSP and others split just enough anti-YSRCP vote; YSRCP still crossed 49%."
+      ],
+      "whyLost": [
+        "TDP’s capital-and-IT story did not beat household cash-and-kind schemes.",
+        "Anti-incumbency after 2014–19, including local sand and land grievances.",
+        "Losing the BJP alliance meant fighting UPA-style maths alone."
+      ],
+      "aftermath": "Jagan took oath on 30 May 2019. Direct-benefit schemes scaled up. The three-capitals idea (2020) froze Amaravati and created a long farmers’ agitation. TDP was reduced to 23, including Naidu at Kuppam. That humiliation shaped the 2024 Kutami.",
+      "changes": [
+        "Largest single-party majority in residual AP (151).",
+        "JSP registered as a one-seat party.",
+        "Welfare DBT became the default governing language."
+      ],
+      "hasMap": true,
+      "hook": "151 seats. Navaratnalu. Amaravati still unpaid for.",
+      "era": "Jagan wave"
+    },
+    {
+      "year": 2024,
+      "scope": "andhra",
+      "title": "Kutami sweep: TDP–JSP–BJP return",
+      "date": "13 May 2024",
+      "seats": 175,
+      "majority": 88,
+      "turnout": 81.87,
+      "cm": "N. Chandrababu Naidu",
+      "cmParty": "TDP",
+      "opposition": "YSRCP (Leader of Opposition post vacant at formation; 11 MLAs)",
+      "coalition": "Kutami / NDA: TDP 135, JSP 21, BJP 8. Naidu is CM, Pawan Kalyan Deputy CM. YSRCP 11.",
+      "parties": [
+        {
+          "code": "TDP",
+          "seats": 135,
+          "share": 45.6
+        },
+        {
+          "code": "JSP",
+          "seats": 21,
+          "share": 6.87
+        },
+        {
+          "code": "YSRCP",
+          "seats": 11,
+          "share": 39.38
+        },
+        {
+          "code": "BJP",
+          "seats": 8,
+          "share": 2.83
+        }
+      ],
+      "leaders": [
+        {
+          "name": "N. Chandrababu Naidu",
+          "party": "TDP",
+          "role": "Alliance CM face; won Kuppam"
+        },
+        {
+          "name": "Pawan Kalyan",
+          "party": "JSP",
+          "role": "Deputy CM face; won Pithapuram"
+        },
+        {
+          "name": "Y. S. Jagan Mohan Reddy",
+          "party": "YSRCP",
+          "role": "Incumbent CM; held Pulivendla"
+        }
+      ],
+      "hype": "This was the anti-incumbency election. Unemployment, the Amaravati freeze, law-and-order talk, sand and liquor, and the skill of the 2021–23 TDP–JSP–BJP reunion. YSRCP still polled 39.4% — not a wipeout on votes — but the alliance converted the rest into 164 of 175 seats. Simultaneous Lok Sabha polls amplified the national NDA frame.",
+      "whyWon": [
+        "A three-party alliance stopped the 2019 split of the anti-YSRCP vote.",
+        "Amaravati farmers and urban unemployed became a visible bloc.",
+        "Pawan Kalyan turned JSP from 1 seat to a clean 21/21."
+      ],
+      "whyLost": [
+        "YSRCP’s 39% could not survive a united opponent.",
+        "Governance complaints (jobs, capital, local strong-arm talk) stacked up.",
+        "No equivalent star or ally to split the Kutami vote."
+      ],
+      "aftermath": "Naidu became CM a fourth time (third of residual AP). Amaravati was revived as the single capital. TDP’s 16 Lok Sabha seats also made Naidu relevant again to the NDA numbers in Delhi.",
+      "changes": [
+        "YSRCP fell from 151 to 11 seats despite ~39% votes.",
+        "JSP became the second legislature party.",
+        "Coalition government returned to AP after 2014–19’s single-party TDP and 2019–24’s single-party YSRCP."
+      ],
+      "hasMap": true,
+      "hook": "39% of the vote, 11 seats. The alliance did the rest.",
+      "era": "Kutami sweep"
+    }
+  ],
+  "loksabha": [
+    {
+      "year": 1980,
+      "scope": "united",
+      "title": "Indira wave: Congress takes almost every AP seat",
+      "date": "3 and 6 January 1980",
+      "seats": 42,
+      "majority": 22,
+      "turnout": 56.9,
+      "cm": null,
+      "nationalGov": "Indira Gandhi formed a Congress (I) government in Delhi.",
+      "cmParty": "INC",
+      "opposition": "Janata Party factions (collapsing nationally)",
+      "coalition": "No state-level LS alliance of note. Congress (I) fought and swept.",
+      "parties": [
+        {
+          "code": "INC",
+          "seats": 41,
+          "share": 56.2
+        },
+        {
+          "code": "OTH",
+          "seats": 1
+        }
+      ],
+      "leaders": [
+        {
+          "name": "Indira Gandhi",
+          "party": "INC",
+          "role": "National face; returning after 1977 defeat"
+        }
+      ],
+      "hype": "The Janata government had imploded. Indira’s ‘elect a government that works’ line landed in a state still run by Congress. TDP did not yet exist. This was the last AP Lok Sabha before NTR rewrote the map. There was no separate Assembly election in 1980 — the 1978 House was still sitting (Chenna Reddy / Anjaiah / Bhavanam / Kotla).",
+      "whyWon": [
+        "National sympathy-plus-anger after the Janata breakup.",
+        "Congress still owned the AP district machine.",
+        "No regional alternative on the ballot."
+      ],
+      "whyLost": [
+        "Janata was split into Janata Party and Janata Party (Secular).",
+        "No Telugu-specific pitch against Congress.",
+        "1977’s anti-Emergency energy had died."
+      ],
+      "aftermath": "Congress (I) formed the 7th Lok Sabha. In AP the 1980 sweep was the calm before 1983. Within two years the Anjaiah airport insult and NTR’s party launch ended this kind of Congress monopoly.",
+      "changes": [
+        "Last near-clean-sweep of AP Lok Sabha by Congress.",
+        "Showed how completely the field was open for a regional party."
+      ],
+      "hook": "The last AP Lok Sabha before TDP existed.",
+      "era": "Congress sweep"
+    },
+    {
+      "year": 1984,
+      "scope": "united",
+      "title": "TDP bucks the Rajiv wave",
+      "date": "24, 27 and 28 December 1984",
+      "seats": 42,
+      "majority": 22,
+      "turnout": 68.0,
+      "nationalGov": "Rajiv Gandhi’s Congress won 414+ seats nationally. TDP became the largest Opposition party in the Lok Sabha.",
+      "cmParty": "TDP",
+      "opposition": "Congress (Rajiv Gandhi)",
+      "coalition": "TDP fought Congress. Nationally this was the post-Indira assassination sympathy wave — except in Andhra.",
+      "parties": [
+        {
+          "code": "TDP",
+          "seats": 30,
+          "share": 44.8
+        },
+        {
+          "code": "INC",
+          "seats": 6,
+          "share": 41.8
+        },
+        {
+          "code": "OTH",
+          "seats": 6
+        }
+      ],
+      "leaders": [
+        {
+          "name": "N. T. Rama Rao",
+          "party": "TDP",
+          "role": "State face; had just been restored as CM"
+        },
+        {
+          "name": "Rajiv Gandhi",
+          "party": "INC",
+          "role": "National sympathy wave"
+        }
+      ],
+      "hype": "Held weeks after Indira Gandhi’s assassination. India gave Rajiv a record House. Andhra voted on the August 1984 dismissal of NTR instead. The two stories ran on the same ballot. TDP’s 30 MPs (of 34 it contested nationwide) were almost all from AP.",
+      "whyWon": [
+        "The Nadendla coup was fresher in AP than the Delhi assassination story.",
+        "NTR’s restored government asked for a national endorsement.",
+        "TDP cadre from the 1983 Assembly win was intact."
+      ],
+      "whyLost": [
+        "Congress still took a large vote share (~42%) but lost the plurality in most seats.",
+        "The sympathy wave was weaker where the CM had just been toppled by the Centre.",
+        "No local mascot equal to NTR."
+      ],
+      "aftermath": "TDP sat as the single largest Opposition group in the 8th Lok Sabha — a first for a two-year-old regional party. It announced that AP could vote differently from the Hindi heartland.",
+      "changes": [
+        "Broke the idea that a national wave automatically carries AP.",
+        "Gave TDP a Delhi bench and national bargaining power."
+      ],
+      "hook": "India gave Rajiv a record. Andhra gave NTR 30 MPs.",
+      "era": "TDP vs Rajiv"
+    },
+    {
+      "year": 1989,
+      "scope": "united",
+      "title": "Congress takes 39 of 42 as Rajiv falls nationally",
+      "date": "22 November 1989",
+      "seats": 42,
+      "majority": 22,
+      "turnout": 70.3,
+      "nationalGov": "V. P. Singh (National Front) with outside BJP and Left support. TDP was a National Front partner but won only 2 AP seats.",
+      "cmParty": "INC",
+      "opposition": "N. T. Rama Rao / National Front",
+      "coalition": "TDP was in the National Front with Janata Dal. In AP that did not save it. Congress swept the state’s LS seats while also winning the Assembly.",
+      "parties": [
+        {
+          "code": "INC",
+          "seats": 39,
+          "share": 51.0
+        },
+        {
+          "code": "TDP",
+          "seats": 2,
+          "share": 34.5
+        },
+        {
+          "code": "OTH",
+          "seats": 1
+        }
+      ],
+      "leaders": [
+        {
+          "name": "Rajiv Gandhi",
+          "party": "INC",
+          "role": "National incumbent, lost India, won AP"
+        },
+        {
+          "name": "N. T. Rama Rao",
+          "party": "TDP",
+          "role": "NF partner, crushed in AP LS"
+        }
+      ],
+      "hype": "Bofors, the National Front, and VP Singh versus Rajiv. In AP the same day was also an Assembly election. Voters punished TDP in both. The oddity: India threw Rajiv out; Andhra gave him 39 MPs.",
+      "whyWon": [
+        "State anti-incumbency against six years of TDP aligned with Congress locally.",
+        "Congress organisation was rebuilt for a double election.",
+        "National Front branding meant less in AP villages than NTR fatigue."
+      ],
+      "whyLost": [
+        "TDP could not fight a national corruption frame and a state anti-incumbency at once.",
+        "Seat-sharing inside the Front was irrelevant when the TDP vote fell this far.",
+        "NTR’s national role did not translate into LS seats at home."
+      ],
+      "aftermath": "AP’s 39 Congress MPs could not save Rajiv in Delhi. They did help Congress form the state government. TDP’s two MPs were a historic low until later wipeouts.",
+      "changes": [
+        "Showed AP can move opposite to the national verdict.",
+        "TDP’s worst Lok Sabha in the NTR era."
+      ],
+      "hook": "India dumped Rajiv. Andhra gave him 39 seats.",
+      "era": "Opposite swing"
+    },
+    {
+      "year": 1991,
+      "scope": "united",
+      "title": "Congress 25, TDP 13 after Rajiv’s assassination",
+      "date": "20 May, 12 and 15 June 1991 (AP in later rounds)",
+      "seats": 42,
+      "majority": 22,
+      "turnout": 61.4,
+      "nationalGov": "P. V. Narasimha Rao (Congress minority, then majority). Rao was the first PM from AP.",
+      "cmParty": "INC",
+      "opposition": "TDP (NTR)",
+      "coalition": "No durable TDP–BJP deal yet. Congress versus TDP was still the main AP LS fight.",
+      "parties": [
+        {
+          "code": "INC",
+          "seats": 25,
+          "share": 45.6
+        },
+        {
+          "code": "TDP",
+          "seats": 13,
+          "share": 32.3
+        },
+        {
+          "code": "OTH",
+          "seats": 4
+        }
+      ],
+      "leaders": [
+        {
+          "name": "P. V. Narasimha Rao",
+          "party": "INC",
+          "role": "Became PM; AP’s first Prime Minister"
+        },
+        {
+          "name": "N. T. Rama Rao",
+          "party": "TDP",
+          "role": "State opposition face"
+        }
+      ],
+      "hype": "Rajiv was assassinated on 21 May 1991 between rounds. Sympathy helped Congress nationally. In AP, Congress already ran the state. TDP recovered from the 1989 LS disaster but not to 1984 levels. The quiet story was Rao — a Karimnagar politician — becoming PM and then opening the 1991 reforms.",
+      "whyWon": [
+        "Sympathy after Rajiv’s killing plus a sitting Congress state government.",
+        "TDP was still rebuilding after 1989.",
+        "Congress caste-and-district network remained deep."
+      ],
+      "whyLost": [
+        "TDP could not nationalise NTR’s appeal in a sympathy election.",
+        "No NDA-style partner to add urban or Hindu-right votes yet.",
+        "Anti-Congress space was split with smaller parties."
+      ],
+      "aftermath": "Rao’s government liberalised the economy. That later gave Naidu the language of reform he used in Hyderabad. TDP’s 13 seats were a respectable opposition bench.",
+      "changes": [
+        "First Prime Minister from Andhra Pradesh.",
+        "TDP returned as a double-digit LS party."
+      ],
+      "hook": "An AP man became Prime Minister.",
+      "era": "Rao to Delhi"
+    },
+    {
+      "year": 1996,
+      "scope": "united",
+      "title": "Hung India; TDP 16, Congress 22",
+      "date": "27 April, 2 and 7 May 1996",
+      "seats": 42,
+      "majority": 22,
+      "turnout": 63.0,
+      "nationalGov": "Short Vajpayee government, then Deve Gowda / I. K. Gujral United Front. TDP supported the United Front from outside.",
+      "cmParty": "TDP",
+      "opposition": "Congress",
+      "coalition": "After NTR’s death (Jan 1996) Naidu’s TDP backed the United Front, not Congress.",
+      "parties": [
+        {
+          "code": "INC",
+          "seats": 22,
+          "share": 39.7
+        },
+        {
+          "code": "TDP",
+          "seats": 16,
+          "share": 32.6
+        },
+        {
+          "code": "OTH",
+          "seats": 4
+        }
+      ],
+      "leaders": [
+        {
+          "name": "N. Chandrababu Naidu",
+          "party": "TDP",
+          "role": "New TDP president / CM after 1995 coup"
+        },
+        {
+          "name": "P. V. Narasimha Rao",
+          "party": "INC",
+          "role": "Outgoing PM; Congress lost nationally"
+        }
+      ],
+      "hype": "First LS after Naidu toppled NTR. Lakshmi Parvathi’s splinter confused some TDP voters. Nationally Rao was dragged by Hawala and anti-incumbency. AP still gave Congress 22 seats — more than TDP — even as Naidu ran Hyderabad.",
+      "whyWon": [
+        "Congress residual strength in Telangana and some coastal belts.",
+        "TDP was mid-rebrand and mid-split after NTR’s death.",
+        "National anti-Rao wave was milder in AP than in the north."
+      ],
+      "whyLost": [
+        "TDP paid a short-term price for the 1995 family coup.",
+        "No BJP alliance yet to add a second vote bank.",
+        "Congress still had the 1991–96 MP incumbents."
+      ],
+      "aftermath": "Naidu’s outside support to the United Front made him a Delhi bargainer. By 1998–99 he would switch that bargaining to the NDA.",
+      "changes": [
+        "TDP became a United Front stakeholder.",
+        "Confirmed Naidu, not the NTR family splinter, owned TDP."
+      ],
+      "hook": "Hung India. Naidu learned to bargain.",
+      "era": "United Front"
+    },
+    {
+      "year": 1998,
+      "scope": "united",
+      "title": "Congress 22 again; TDP slips to 12",
+      "date": "16, 22 and 28 February 1998",
+      "seats": 42,
+      "majority": 22,
+      "turnout": 66.0,
+      "nationalGov": "Vajpayee’s 13-month NDA government. TDP gave outside support, did not join the Cabinet.",
+      "cmParty": "TDP",
+      "opposition": "Congress",
+      "coalition": "TDP did not have a formal seat-sharing deal with BJP in 1998 (that came in 1999). It later supported Vajpayee from outside.",
+      "parties": [
+        {
+          "code": "INC",
+          "seats": 22,
+          "share": 38.5
+        },
+        {
+          "code": "TDP",
+          "seats": 12,
+          "share": 32.0
+        },
+        {
+          "code": "BJP",
+          "seats": 4
+        },
+        {
+          "code": "OTH",
+          "seats": 4
+        }
+      ],
+      "leaders": [
+        {
+          "name": "N. Chandrababu Naidu",
+          "party": "TDP",
+          "role": "CM; outside support to Vajpayee"
+        },
+        {
+          "name": "Sonia Gandhi",
+          "party": "INC",
+          "role": "New national Congress face"
+        }
+      ],
+      "hype": "A snap poll after the UF governments fell. Sonia Gandhi’s first campaign as Congress mascot. In AP, Naidu was already the IT CM but had not yet locked a BJP alliance. BJP opened a small LS account in the state (4).",
+      "whyWon": [
+        "Congress still had a broader social base than TDP-alone.",
+        "Sonia’s debut limited the national anti-Congress swing in the south.",
+        "Split of non-Congress votes between TDP and BJP cost TDP seats."
+      ],
+      "whyLost": [
+        "TDP fought BJP in some seats instead of with it.",
+        "Twelve seats under-sold TDP’s statewide vote.",
+        "No Kargil-style national tailwind yet."
+      ],
+      "aftermath": "Naidu’s outside support kept Vajpayee in office in 1998. The lesson was alliance: 1999 TDP+BJP produced 29+7. That is the origin of every later NDA experiment in AP.",
+      "changes": [
+        "BJP won LS seats in AP in size for the first time.",
+        "Pushed TDP into a formal NDA seat-sharing model."
+      ],
+      "hook": "Outside support to Vajpayee. The NDA habit starts here.",
+      "era": "Outside NDA"
+    },
+    {
+      "year": 1999,
+      "scope": "united",
+      "title": "TDP–BJP NDA wave: 29 + 7",
+      "date": "5, 11, 17 and 24 September 1999",
+      "seats": 42,
+      "majority": 22,
+      "turnout": 69.1,
+      "nationalGov": "Vajpayee’s full-term NDA. TDP stayed an ally (Cabinet posts were limited; Naidu preferred state power).",
+      "cmParty": "TDP",
+      "opposition": "Congress (Sonia Gandhi / YSR as AP organiser)",
+      "coalition": "Formal TDP–BJP alliance. Combined 36 of 42 AP seats (TDP 29, BJP 7). AIMIM held Hyderabad.",
+      "parties": [
+        {
+          "code": "TDP",
+          "seats": 29,
+          "share": 39.9
+        },
+        {
+          "code": "BJP",
+          "seats": 7
+        },
+        {
+          "code": "INC",
+          "seats": 5,
+          "share": 42.8
+        },
+        {
+          "code": "AIMIM",
+          "seats": 1
+        }
+      ],
+      "leaders": [
+        {
+          "name": "N. Chandrababu Naidu",
+          "party": "TDP",
+          "role": "NDA’s south anchor"
+        },
+        {
+          "name": "Atal Bihari Vajpayee",
+          "party": "BJP",
+          "role": "National NDA face after Kargil"
+        }
+      ],
+      "hype": "Kargil plus Vajpayee. In AP it doubled as Naidu’s development election. Congress actually polled more votes than TDP (~43% vs ~40%) but the alliance turned that into 5 seats. This is the textbook case of AP alliance arithmetic.",
+      "whyWon": [
+        "Seat-sharing with BJP stopped a split of the anti-Congress vote.",
+        "Kargil / Vajpayee added a national overlay to Cyberabad.",
+        "TDP incumbents in the state transferred some local strength."
+      ],
+      "whyLost": [
+        "Congress won the popular vote in AP and still lost the seats.",
+        "No partner to match NDA’s two-party spread.",
+        "YSR had not yet become a statewide walking brand."
+      ],
+      "aftermath": "TDP’s 29 MPs made Naidu one of the NDA’s most important non-BJP chiefs. He used that leverage on state projects. The same alliance lost together in 2004.",
+      "changes": [
+        "High-water mark of TDP in the Lok Sabha (29).",
+        "Proved alliance > raw vote share in AP LS."
+      ],
+      "hook": "Congress won more votes. TDP+BJP won 36 seats.",
+      "era": "Alliance maths"
+    },
+    {
+      "year": 2004,
+      "scope": "united",
+      "title": "UPA flip: Congress 29, TDP 5, TRS 5",
+      "date": "20 and 26 April 2004",
+      "seats": 42,
+      "majority": 22,
+      "turnout": 69.9,
+      "nationalGov": "Manmohan Singh’s UPA-1. AP’s Congress–TRS–Left haul was a big part of that majority.",
+      "cmParty": "INC",
+      "opposition": "TDP–BJP NDA",
+      "coalition": "Congress + TRS + Left versus TDP + BJP. AIMIM held Hyderabad.",
+      "parties": [
+        {
+          "code": "INC",
+          "seats": 29,
+          "share": 41.6
+        },
+        {
+          "code": "TDP",
+          "seats": 5,
+          "share": 33.1
+        },
+        {
+          "code": "TRS",
+          "seats": 5
+        },
+        {
+          "code": "OTH",
+          "seats": 3
+        }
+      ],
+      "leaders": [
+        {
+          "name": "Y. S. Rajasekhara Reddy",
+          "party": "INC",
+          "role": "State UPA face"
+        },
+        {
+          "name": "N. Chandrababu Naidu",
+          "party": "TDP",
+          "role": "NDA state face"
+        },
+        {
+          "name": "K. Chandrashekar Rao",
+          "party": "TRS",
+          "role": "Telangana ally"
+        }
+      ],
+      "hype": "Same ballot as the Assembly. India Shining versus YSR’s walk. TRS made Telangana a Lok Sabha issue for the first time at scale. TDP crashed from 29 MPs to 5.",
+      "whyWon": [
+        "Same rural revolt that sank Naidu in the Assembly.",
+        "Congress–TRS–Left sharing in Telangana and Left pockets.",
+        "National anti-NDA mood added a second punch."
+      ],
+      "whyLost": [
+        "TDP–BJP still wore India Shining in a drought year.",
+        "No answer to the padayatra.",
+        "Alliance with BJP did not help in rural Telugu seats this time."
+      ],
+      "aftermath": "UPA formed at the Centre; YSR in Hyderabad. TRS later walked out over Telangana. TDP began a decade in the LS wilderness.",
+      "changes": [
+        "TRS arrived in the Lok Sabha (5).",
+        "TDP’s steepest LS fall (29 → 5)."
+      ],
+      "hook": "TDP crashed from 29 MPs to 5.",
+      "era": "UPA flip"
+    },
+    {
+      "year": 2009,
+      "scope": "united",
+      "title": "Congress 33 in YSR’s last election",
+      "date": "16 and 23 April 2009",
+      "seats": 42,
+      "majority": 22,
+      "turnout": 72.7,
+      "nationalGov": "Manmohan Singh’s UPA-2. AP’s 33 Congress MPs were one of the largest state contingents.",
+      "cmParty": "INC",
+      "opposition": "TDP maha kutami (with TRS, Left)",
+      "coalition": "Congress/UPA versus TDP+TRS+Left. PRP fought LS as well and won none.",
+      "parties": [
+        {
+          "code": "INC",
+          "seats": 33,
+          "share": 39.0
+        },
+        {
+          "code": "TDP",
+          "seats": 6,
+          "share": 24.9
+        },
+        {
+          "code": "TRS",
+          "seats": 2
+        },
+        {
+          "code": "OTH",
+          "seats": 1
+        }
+      ],
+      "leaders": [
+        {
+          "name": "Y. S. Rajasekhara Reddy",
+          "party": "INC",
+          "role": "State UPA face"
+        },
+        {
+          "name": "N. Chandrababu Naidu",
+          "party": "TDP",
+          "role": "Third Front / maha kutami"
+        }
+      ],
+      "hype": "UPA-2 versus a Third Front story nationally. In AP it was YSR’s welfare versus a crowded opposition. Chiranjeevi’s PRP ate TDP votes and won zero Lok Sabha seats. Congress improved from 29 to 33.",
+      "whyWon": [
+        "YSR’s personal incumbency transferred to MPs.",
+        "Opposition vote split four ways (TDP, TRS, Left, PRP).",
+        "UPA’s national ‘stability’ line worked in a reforming-but-welfare state."
+      ],
+      "whyLost": [
+        "Maha kutami was less than the sum of its parts.",
+        "PRP’s 16% Assembly vote did not become LS seats.",
+        "TDP vote share sank to about 25%."
+      ],
+      "aftermath": "YSR died that September. The 33-MP bloc could not stop the Congress split or the Telangana decision. 2009 is the last time Congress was the first party in an AP Lok Sabha contest.",
+      "changes": [
+        "Congress high-water mark in 21st-century AP LS (33).",
+        "Last LS of united Andhra Pradesh (42 seats)."
+      ],
+      "hook": "33 Congress MPs. The last time Congress led AP.",
+      "era": "UPA-2"
+    },
+    {
+      "year": 2014,
+      "scope": "andhra",
+      "title": "Residual AP: TDP 15, YSRCP 8, BJP 2",
+      "date": "7 May 2014",
+      "seats": 25,
+      "majority": 13,
+      "turnout": 74.6,
+      "nationalGov": "Narendra Modi’s first NDA. TDP joined the government; later walked out in 2018 over special category status.",
+      "cmParty": "TDP",
+      "opposition": "YSRCP",
+      "coalition": "TDP–BJP. Combined 17 of 25 residual-AP seats. Congress 0.",
+      "parties": [
+        {
+          "code": "TDP",
+          "seats": 15,
+          "share": 29.1
+        },
+        {
+          "code": "YSRCP",
+          "seats": 8,
+          "share": 28.9
+        },
+        {
+          "code": "BJP",
+          "seats": 2
+        }
+      ],
+      "leaders": [
+        {
+          "name": "N. Chandrababu Naidu",
+          "party": "TDP",
+          "role": "NDA partner in residual AP"
+        },
+        {
+          "name": "Y. S. Jagan Mohan Reddy",
+          "party": "YSRCP",
+          "role": "Main opponent"
+        },
+        {
+          "name": "Narendra Modi",
+          "party": "BJP",
+          "role": "National NDA face"
+        }
+      ],
+      "hype": "First Lok Sabha for residual Andhra Pradesh (25 seats; Telangana took 17). Same day as the Assembly. Bifurcation rage against Congress, Modi’s national wave, and a local TDP–BJP deal. Vote shares of TDP and YSRCP were again close; seats favoured the alliance.",
+      "whyWon": [
+        "Modi wave plus a local anti-Congress bifurcation frame.",
+        "TDP–BJP sharing in urban and Godavari belts.",
+        "Congress vacated the anti-TDP space without winning any of it."
+      ],
+      "whyLost": [
+        "YSRCP had no national partner.",
+        "Congress scored zero and could not be a transfer vehicle.",
+        "New 25-seat map favoured coastal TDP clusters."
+      ],
+      "aftermath": "TDP ministers sat in Modi’s Cabinet (Ashok Gajapathi Raju, Sadananda Gowda’s rail partner politics, etc.). The 2018 walkout over special status defined the next LS. YSRCP used those four years to prepare 2019.",
+      "changes": [
+        "AP Lok Sabha cut from 42 to 25.",
+        "Congress erased from residual-AP LS.",
+        "BJP opened a 2-seat residual-AP account via alliance."
+      ],
+      "hook": "25 seats left. TDP 15, YSRCP 8, BJP 2.",
+      "era": "Residual LS"
+    },
+    {
+      "year": 2019,
+      "scope": "andhra",
+      "title": "YSRCP 22, TDP 3 — no NDA in AP",
+      "date": "11 April 2019",
+      "seats": 25,
+      "majority": 13,
+      "turnout": 80.3,
+      "nationalGov": "Modi’s second majority. TDP had left NDA in 2018; AP’s 22 YSRCP MPs sat in opposition nationally.",
+      "cmParty": "YSRCP",
+      "opposition": "TDP",
+      "coalition": "No TDP–BJP deal. JSP did not win an LS seat. YSRCP fought almost everywhere.",
+      "parties": [
+        {
+          "code": "YSRCP",
+          "seats": 22,
+          "share": 49.9
+        },
+        {
+          "code": "TDP",
+          "seats": 3,
+          "share": 40.2
+        }
+      ],
+      "leaders": [
+        {
+          "name": "Y. S. Jagan Mohan Reddy",
+          "party": "YSRCP",
+          "role": "State face of the LS sweep"
+        },
+        {
+          "name": "N. Chandrababu Naidu",
+          "party": "TDP",
+          "role": "Fought without BJP"
+        }
+      ],
+      "hype": "Special category status was the nationalisation of a state grievance. Naidu’s dharna in Delhi did not convert. Jagan’s padayatra did. Same day as the Assembly landslide. TDP held only three LS seats (including NTR’s old Vijayawada-area strength in places, and a couple of coastal holdouts).",
+      "whyWon": [
+        "Identical welfare-and-anger wave as the Assembly.",
+        "TDP fought solo after the 2018 NDA exit.",
+        "YSRCP crossed ~50% in a two-way fight."
+      ],
+      "whyLost": [
+        "Leaving NDA isolated TDP against a 50% opponent.",
+        "SCS protest stayed a headline, not a winning frame.",
+        "No third force won an LS seat to bruise YSRCP."
+      ],
+      "aftermath": "22 YSRCP MPs were Jagan’s Delhi voice. They could not stop the Centre on special status. TDP’s three MPs were a rump. The 2024 Kutami was designed so this isolation would not repeat.",
+      "changes": [
+        "YSRCP’s best Lok Sabha (22/25).",
+        "BJP zero in residual AP without TDP.",
+        "Showed 2018’s NDA breakup had a seat cost."
+      ],
+      "hook": "YSRCP 22. TDP fought NDA-less and lost.",
+      "era": "Jagan LS"
+    },
+    {
+      "year": 2024,
+      "scope": "andhra",
+      "title": "Kutami 21, YSRCP 4",
+      "date": "13 May 2024",
+      "seats": 25,
+      "majority": 13,
+      "turnout": 80.7,
+      "nationalGov": "Modi’s third term as a minority NDA that needed allies. TDP’s 16 MPs became nationally important.",
+      "cmParty": "TDP",
+      "opposition": "YSRCP",
+      "coalition": "TDP 16 + BJP 3 + JSP 2 = 21. YSRCP 4 (Araku, Kadapa, Rajampet, Tirupati).",
+      "parties": [
+        {
+          "code": "TDP",
+          "seats": 16,
+          "share": 38.3
+        },
+        {
+          "code": "YSRCP",
+          "seats": 4,
+          "share": 40.0
+        },
+        {
+          "code": "BJP",
+          "seats": 3,
+          "share": 11.4
+        },
+        {
+          "code": "JSP",
+          "seats": 2
+        }
+      ],
+      "leaders": [
+        {
+          "name": "N. Chandrababu Naidu",
+          "party": "TDP",
+          "role": "NDA ally; 16 MPs"
+        },
+        {
+          "name": "Pawan Kalyan",
+          "party": "JSP",
+          "role": "Won both JSP LS seats via alliance"
+        },
+        {
+          "name": "Y. S. Jagan Mohan Reddy",
+          "party": "YSRCP",
+          "role": "Held a four-seat rump"
+        }
+      ],
+      "hype": "Same anti-incumbency as the Assembly, plus Modi’s third-term campaign. YSRCP actually edged TDP on LS vote share in some aggregates (~40% vs ~38%) because TDP did not contest every seat — BJP and JSP did. That is why seats and votes tell different stories. NDA still took 21/25.",
+      "whyWon": [
+        "Alliance geometry: TDP did not need 40% everywhere if partners took their seats.",
+        "State anti-incumbency transferred to MPs.",
+        "JSP and BJP converted reserved pockets and urban/Godavari seats."
+      ],
+      "whyLost": [
+        "YSRCP’s vote stayed high but was stranded without allies.",
+        "Straight fights against a three-brand NDA lost the middle.",
+        "No national story that beat unemployment + Amaravati."
+      ],
+      "aftermath": "TDP’s 16 MPs helped the NDA cross the majority line in the 18th Lok Sabha. That is the sharpest national comeback for a residual-AP party since 1999. YSRCP’s 4 MPs are the official Opposition presence from the state.",
+      "changes": [
+        "TDP back as a national coalition partner with real numbers.",
+        "JSP’s first Lok Sabha seats (2).",
+        "YSRCP vote–seat mismatch: ~40% votes, 4 seats."
+      ],
+      "hook": "16 TDP MPs helped make the NDA government in Delhi.",
+      "era": "Naidu returns"
+    }
+  ],
+  "telangana": [
+    {
+      "year": 2014,
+      "scope": "telangana",
+      "title": "First Telangana Assembly — TRS wins the new state",
+      "date": "30 April 2014 (results 16 May); state formed 2 June 2014",
+      "seats": 119,
+      "majority": 60,
+      "turnout": 73.7,
+      "cm": "K. Chandrashekar Rao",
+      "cmParty": "TRS",
+      "opposition": "Congress / TDP",
+      "coalition": "TRS majority (63). AIMIM 7 usually voted with TRS in Hyderabad. TDP 15, Congress 21, BJP 5, YSRCP 3.",
+      "parties": [
+        {
+          "code": "TRS",
+          "seats": 63,
+          "share": 34.3
+        },
+        {
+          "code": "INC",
+          "seats": 21,
+          "share": 25.2
+        },
+        {
+          "code": "TDP",
+          "seats": 15,
+          "share": 14.7
+        },
+        {
+          "code": "AIMIM",
+          "seats": 7,
+          "share": 3.8
+        },
+        {
+          "code": "BJP",
+          "seats": 5,
+          "share": 7.1
+        },
+        {
+          "code": "YSRCP",
+          "seats": 3
+        }
+      ],
+      "leaders": [
+        {
+          "name": "K. Chandrashekar Rao",
+          "party": "TRS",
+          "role": "First CM of Telangana"
+        },
+        {
+          "name": "N. Uttam Kumar Reddy",
+          "party": "INC",
+          "role": "Congress face"
+        },
+        {
+          "name": "N. Chandrababu Naidu",
+          "party": "TDP",
+          "role": "TDP still contested TG"
+        }
+      ],
+      "hype": "This was the founding election. The Andhra Pradesh Reorganisation Act had been passed. TRS — the party of the Telangana movement — asked for a clean mandate to run the new state. Congress claimed credit for creating Telangana. TDP still had a residual vote in some districts. AIMIM locked old-city Hyderabad. Counting was with the rest of India on 16 May; KCR took oath on 2 June 2014.",
+      "whyWon": [
+        "TRS owned the statehood movement after 14 years of agitation.",
+        "Congress got the blame for a messy split even as it passed the Act.",
+        "A first-past-the-post bonus: 34% votes became 63 seats."
+      ],
+      "whyLost": [
+        "Congress could not convert “we delivered Telangana” into seats.",
+        "TDP was seen as a Seemandhra party.",
+        "No anti-TRS alliance."
+      ],
+      "aftermath": "KCR became the first CM. Hyderabad was the joint capital for 10 years. Irrigation, Mission Bhagiratha and a strong TRS machine followed. TDP later faded in TG.",
+      "changes": [
+        "119-seat Telangana Assembly created.",
+        "TRS became the natural party of government.",
+        "AIMIM kept its Hyderabad cluster (7)."
+      ],
+      "hook": "The movement party became the government.",
+      "era": "First TG House"
+    },
+    {
+      "year": 2018,
+      "scope": "telangana",
+      "title": "KCR calls an early election and wins bigger",
+      "date": "7 December 2018",
+      "seats": 119,
+      "majority": 60,
+      "turnout": 73.7,
+      "cm": "K. Chandrashekar Rao",
+      "cmParty": "TRS",
+      "opposition": "Congress-led Praja Kutami (INC + TDP + CPI + TJS)",
+      "coalition": "TRS majority (88). AIMIM 7 remained a Hyderabad ally in practice. Congress 19, TDP 2, BJP 1, AIFB 1.",
+      "parties": [
+        {
+          "code": "TRS",
+          "seats": 88,
+          "share": 46.9
+        },
+        {
+          "code": "INC",
+          "seats": 19,
+          "share": 28.4
+        },
+        {
+          "code": "AIMIM",
+          "seats": 7
+        },
+        {
+          "code": "TDP",
+          "seats": 2
+        },
+        {
+          "code": "BJP",
+          "seats": 1
+        }
+      ],
+      "leaders": [
+        {
+          "name": "K. Chandrashekar Rao",
+          "party": "TRS",
+          "role": "Incumbent CM; dissolved House early"
+        },
+        {
+          "name": "Uttam Kumar Reddy / Rahul Gandhi visits",
+          "party": "INC",
+          "role": "Praja Kutami"
+        }
+      ],
+      "hype": "KCR dissolved the House a few months early to separate TG from the 2019 Lok Sabha and from AP’s anti-TDP wave. Congress stitched Praja Kutami with TDP, CPI and Telangana Jana Samithi. Farm loans, Rythu Bandhu and welfare were TRS’s pitch. The alliance was billed as the first real test of TRS.",
+      "whyWon": [
+        "Rythu Bandhu and welfare had reach before the vote.",
+        "Calling the poll early split the national anti-incumbency calendar.",
+        "Praja Kutami looked forced — TDP still carried Seemandhra baggage."
+      ],
+      "whyLost": [
+        "The grand alliance did not transfer votes cleanly.",
+        "Congress had no CM face equal to KCR.",
+        "BJP was still a small urban slice."
+      ],
+      "aftermath": "TRS hit 88 seats. In 2019 LS it still won 9 of 17. In 2022 TRS renamed itself Bharat Rashtra Samithi. The 2018 peak is the high-water mark of KCR’s state party.",
+      "changes": [
+        "Largest TRS Assembly (88).",
+        "TDP reduced to 2 in TG.",
+        "Set up the overconfidence that Congress exploited in 2023."
+      ],
+      "hook": "KCR called the election early. He won 88.",
+      "era": "TRS peak"
+    },
+    {
+      "year": 2023,
+      "scope": "telangana",
+      "title": "Congress defeats BRS; Revanth Reddy becomes CM",
+      "date": "30 November 2023",
+      "seats": 119,
+      "majority": 60,
+      "turnout": 71.3,
+      "cm": "Anumula Revanth Reddy",
+      "cmParty": "INC",
+      "opposition": "K. Chandrashekar Rao / BRS",
+      "coalition": "Congress majority (64) plus CPI 1. AIMIM 7 stayed independent. BRS 39, BJP 8.",
+      "parties": [
+        {
+          "code": "INC",
+          "seats": 64,
+          "share": 39.4
+        },
+        {
+          "code": "BRS",
+          "seats": 39,
+          "share": 37.3
+        },
+        {
+          "code": "BJP",
+          "seats": 8,
+          "share": 13.9
+        },
+        {
+          "code": "AIMIM",
+          "seats": 7
+        },
+        {
+          "code": "CPI",
+          "seats": 1
+        }
+      ],
+      "leaders": [
+        {
+          "name": "A. Revanth Reddy",
+          "party": "INC",
+          "role": "Congress CM face"
+        },
+        {
+          "name": "K. Chandrashekar Rao",
+          "party": "BRS",
+          "role": "Incumbent CM; lost Kamareddy, held Gajwel"
+        },
+        {
+          "name": "G. Kishan Reddy / Bandi Sanjay",
+          "party": "BJP",
+          "role": "BJP state face"
+        }
+      ],
+      "hype": "Six guarantees versus anti-incumbency after nearly ten years of TRS/BRS. Unemployment, paper-leak talk, and family-rule charges hit BRS. BJP hoped to be the main Hindu-right alternative. KCR contested two seats and lost Kamareddy to BJP’s Katipally Venkata Ramana Reddy. Vote shares were close (Congress ~39, BRS ~37); seats were not.",
+      "whyWon": [
+        "Ten-year anti-incumbency plus a simple six-guarantee card.",
+        "Revanth Reddy was a recognisable local attacker, not a Delhi import.",
+        "BJP took just enough BRS votes in some seats to help Congress."
+      ],
+      "whyLost": [
+        "BRS still had 37% but lost the conversion game.",
+        "KCR’s national BRS rebrand looked like neglect of the state.",
+        "No alliance to stop a three-way split in urban seats."
+      ],
+      "aftermath": "Revanth Reddy became CM. Congress also won 8 of 17 LS seats in 2024 (tied with BJP). BRS collapsed in the Lok Sabha (0). AIMIM kept 7 Assembly seats.",
+      "changes": [
+        "First non-TRS/BRS government of Telangana.",
+        "BJP grew to 8 MLAs.",
+        "BRS fell from 88 to 39."
+      ],
+      "hook": "Ten years of pink, then a Congress CM.",
+      "era": "Revanth"
+    }
+  ]
+}

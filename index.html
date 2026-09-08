@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AP &amp; Telangana elections</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;0,6..72,700;1,6..72,400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div id="boot">Loading the archive…</div>
+
+  <header class="masthead">
+    <div class="masthead-inner">
+      <p class="kicker">Assembly results · 1983–2024</p>
+      <h1>AP &amp; Telangana elections</h1>
+      <p class="standfirst">Constituency winners and seat totals. United Andhra Pradesh until 2014, then AP and Telangana separately.</p>
+    </div>
+  </header>
+
+  <div class="chrome">
+    <nav class="scopes" id="scopes" aria-label="State">
+      <button type="button" data-scope="united">
+        <b>United Andhra Pradesh</b>
+        <span>1983–2009 · 294 seats</span>
+      </button>
+      <button type="button" data-scope="ap">
+        <b>Andhra Pradesh</b>
+        <span>2014–2024 · 175 seats</span>
+      </button>
+      <button type="button" data-scope="tg">
+        <b>Telangana</b>
+        <span>2014–2023 · 119 seats</span>
+      </button>
+    </nav>
+    <div class="years" id="years" role="tablist" aria-label="Election year"></div>
+  </div>
+
+  <main class="wrap">
+    <section class="workspace" id="workspace">
+      <div class="map-col">
+        <div class="map-toolbar">
+          <div>
+            <p class="map-kicker" id="map-kicker"></p>
+            <h2 id="map-title"></h2>
+          </div>
+          <div class="search-wrap">
+            <label class="sr-only" for="search">Search constituency or winner</label>
+            <input id="search" type="search" placeholder="Search a seat or winner" autocomplete="off" />
+            <ul id="search-results" hidden></ul>
+          </div>
+        </div>
+        <div class="legend" id="map-legend"></div>
+        <div class="map-wrap">
+          <svg id="map" xmlns="http://www.w3.org/2000/svg"></svg>
+          <div class="zoom-tools">
+            <button type="button" id="zoom-in" title="Zoom in">+</button>
+            <button type="button" id="zoom-out" title="Zoom out">−</button>
+            <button type="button" id="zoom-reset" title="Reset map">⌂</button>
+          </div>
+          <div id="tooltip" hidden></div>
+        </div>
+      </div>
+
+      <aside class="panel" id="panel" aria-live="polite">
+        <div id="panel-body"></div>
+      </aside>
+    </section>
+
+    <article class="brief" id="brief"></article>
+  </main>
+
+  <footer class="foot">
+    Seat figures from the Election Commission of India. Constituency winners and candidate votes from IndiaVotes / ECI Form-20.
+    Before 2 June 2014 this is one state. After that, Andhra Pradesh and Telangana are shown separately.
+  </footer>
+
+  <script src="js/parties.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
